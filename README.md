@@ -48,4 +48,5 @@ Alternatively, you can create a shortcut using your right-click on OSvC icon, th
 For more detailed information I'd recommend to access this [article](https://developer.chrome.com/extensions/packaging) and follow the steps provided.
 
 ** For more insights **
+
 [Chrome Extension Web Page](https://developer.chrome.com/extensions/samples)
